@@ -4,4 +4,4 @@
 <p>This project was styled with CSS3.</p>
 <p>This project was developed in Visual Studio Code with HTML5 </p>
 
-![shopcart]([shopcart.gif](https://github.com/Kadirtur/shopping-card/blob/main/shopcart.gif)
+![shopcart](https://github.com/Kadirtur/shopping-card/blob/main/shopcart.gif)
